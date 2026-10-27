@@ -1,0 +1,3 @@
+The speed of light in a vacuum is approximately 299,792,458 meters per second. 
+This constant, denoted by the letter c, is fundamental to physics and appears in Einstein's theory of special relativity. 
+The speed of light determines the maximum speed at which all energy, matter, and information can travel through the universe.
